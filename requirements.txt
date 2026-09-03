@@ -1,12 +1,1 @@
-torch
-torchvision
-torchaudio
-transformers
-datasets
-diffusers
-accelerate
-matplotlib
-numpy
-pillow
-safetensors
-ipython
+
